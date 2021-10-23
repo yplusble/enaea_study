@@ -1,6 +1,6 @@
 # enaea_study
 前面提示：仅供学习使用，记得加*
-# 大学生网络党课_刷课
+# 大学生网络党课_
 ## 1.下载浏览器油桃插件 Tampermonkey
 http://tampermonkey.net
 ## 2. 添加新脚本
