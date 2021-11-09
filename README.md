@@ -4,6 +4,7 @@
 ## 1.下载浏览器油桃插件 Tampermonkey
 http://tampermonkey.net
 ## 2. 添加新脚本
+ 将下载的两个JS文件内容分别添加新脚本
 ![图片](https://user-images.githubusercontent.com/51390110/138545482-9c28ccda-e927-442c-932b-7803d8a0b7a8.png)
 
 脚本代码有两个：
