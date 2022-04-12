@@ -14,7 +14,7 @@ http://tampermonkey.net
       
       __注：第一个为了点击开始学习__  
     第二个脚本执行页面：
-        ![图片](https://user-images.githubusercontent.com/51390110/138545633-95853c50-8e7a-4cfa-bde3-9deb5a3b60db.png)
+        ![图片]( https://user-images.githubusercontent.com/51390110/138545633-95853c50-8e7a-4cfa-bde3-9deb5a3b60db.png )
         
       __注：第二脚本是为了防止弹出20分钟点击__  
       
